@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/UdBujFN.png" width="250" /> <br>
 
-<img src="" width="100"/> 
+<img src="https://user-images.githubusercontent.com/48913536/183939737-ff189235-7ebd-47c2-995f-57213d554359.png" width="100"/> 
 
 # Demo Pointcloud Project  
 
@@ -24,28 +24,18 @@ Demo project with pointclouds
 
 ## Overview 
 
-`demo_pointcloud_project` is an example project with 2 pointcloud episodes. 
-Pointcloud episodes for this project were acquired from [KITTI360](http://www.cvlibs.net/datasets/kitti-360/) and [LYFT](https://level-5.global/data/) datasets.
+`demo_pointcloud_project` is an example project with 2 datasets and 35 pointclouds.
+Pointclouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
-<div>
-  <table>
-    <tr style="width: 100%">
-      <td>
-        <b>KITTI360</b>
-        <img src="" style="width:150%;"/>
-      </td>
-      <td>
-        <b>LYFT</b>
-        <img src="" style="width:150%;"/>
-      </td>
-    </tr>
-  </table>
+<div align="center" markdown>
+  <img src="https://user-images.githubusercontent.com/48913536/183939756-c4456d5e-87eb-4437-a0e3-b408b2f3d4aa.png"/>
 </div>
+
 
 ## Download
 
-Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-poinctloud-project/releases/download/v0.0.1/demo_pointcloud_project.zip) (409 MB).
+Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-poinctloud-project/releases/download/v0.0.1/demo_pointcloud_project.zip) (69 MB).
 
 ## Statistics
 
-Project contains 2 datasets, with 35 pointclouds in it.
+Project contains 2 datasets, with 20 and 15 pointclouds in each dataset.
