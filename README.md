@@ -28,7 +28,7 @@ Demo project with pointclouds
 Pointclouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
 <div align="center" markdown>
-  <img src="https://user-images.githubusercontent.com/48913536/183939756-c4456d5e-87eb-4437-a0e3-b408b2f3d4aa.png"/>
+  <img src="https://user-images.githubusercontent.com/48913536/183950838-db9c43bf-3c91-47df-87da-9e410935e852.png"/>
 </div>
 
 
