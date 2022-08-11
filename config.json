@@ -1,6 +1,7 @@
 {
   "name": "Demo pointcloud project",
   "description": "35 pointclouds",
+  "docker_image": "supervisely/base-py-sdk:6.55.2",
   "type": "project",
   "categories": [
     "import",
