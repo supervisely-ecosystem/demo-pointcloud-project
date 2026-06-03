@@ -24,7 +24,7 @@ Demo project with point clouds
 
 ## Overview 
 
-`demo_point cloud_project` is an example project with 1 dataset and 30 point clouds.
+`demo_pointcloud_project` is an example project with 1 dataset and 30 point clouds.
 Point Clouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
 <div align="center" markdown>
