@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/48913536/183939737-ff189235-7ebd-47c2-995f-57213d554359.png" width="100"/> 
 
-# Demo Pointcloud Project  
+# Demo Point Cloud Project  
 
 <p align="center">
 
@@ -20,12 +20,12 @@
 
 </div>
 
-Demo project with pointclouds
+Demo project with point clouds
 
 ## Overview 
 
-`demo_pointcloud_project` is an example project with 1 dataset and 30 pointclouds.
-Pointclouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
+`demo_pointcloud_project` is an example project with 1 dataset and 30 point clouds.
+Point Clouds for this project were acquired from [KITTI3D](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d).
 
 <div align="center" markdown>
   <img src="https://user-images.githubusercontent.com/48913536/184111755-f3c49076-daa7-4851-9eb3-a04d87cd8e8a.png"/>
@@ -38,4 +38,4 @@ Direct download: [zip archive](https://github.com/supervisely-ecosystem/demo-poi
 
 ## Statistics
 
-Project contains 1 dataset with 30 pointclouds.
+Project contains 1 dataset with 30 point clouds.
