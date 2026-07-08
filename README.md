@@ -14,7 +14,7 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervisely.com/slack)
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/demo-poinctloud-project)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/demo-pointcloud-project)
 [![views](https://app.supervisely.com/img/badges/views/supervisely-ecosystem/demo-pointcloud-project.png)](https://supervisely.com) 
 [![downloads](https://app.supervisely.com/img/badges/downloads/supervisely-ecosystem/demo-pointcloud-project.png)](https://supervisely.com)
 
